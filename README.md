@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Fayssal el bouhamedy
-#### I am Developer web and designer
+#### I am Designer and a Developer web
 Hello! I’m Fayssal El Bouhamedy, I’m a junior developer specializing in front-end development. experienced with HTML, CSS,JS(JQUERY),SQL,REACT.js, CMS(WordPress),UML.I enjoy my career  
 
 
